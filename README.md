@@ -23,6 +23,11 @@ Welcome to the **Fibonacci Sequence Generator GUI** project! This application pr
 - **Clean and Modern UI:** A simple yet effective graphical user interface (GUI) using PySide6 and QML.
 - **Easy Exit:** Convenient exit button for quickly closing the application.
 
+---
+![gif](lv_0_20240908080547.gif)
+
+---
+
 ## 🎯 How It Works
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, typically starting with 0 and 1. This application calculates the Fibonacci sequence based on the number of terms you input.
 
